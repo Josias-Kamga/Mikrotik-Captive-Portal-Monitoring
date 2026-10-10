@@ -101,7 +101,7 @@ Screenshots and exports in this repository contain no passwords, shared secrets,
 
 ## Author
 
-Josias Foguieng Kamga, Bachelor student in Networks and Security.
+Josias Kamga, Bachelor student in Networks and Security.
 [Portfolio](https://josias-kamga.github.io/portfolio/) · [GitHub](https://github.com/Josias-Kamga) · [LinkedIn](www.linkedin.com/in/josiaskamga)
 
 ## License
