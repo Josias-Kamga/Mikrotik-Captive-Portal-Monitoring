@@ -101,7 +101,7 @@ Les captures et exports de ce dépôt ne contiennent ni mots de passe, ni secret
 
 ## Auteur
 
-Josias Foguieng Kamga, 
+Josias Kamga, 
 [Portfolio](https://josias-kamga.github.io/portfolio/) · [GitHub](https://github.com/Josias-Kamga) · [LinkedIn](www.linkedin.com/in/josiaskamga)
 
 ## Licence
